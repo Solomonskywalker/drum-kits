@@ -44,7 +44,7 @@ for (var i = 0; i < button.length; i++) {
                 break;
 
             case "k":
-                var tom3 = new Audio("sounds/tom-3.mp3");
+                var tom3 = new Audio("tom-3.mp3");
                 tom3.play();
                 break;
 
@@ -67,3 +67,4 @@ for (var i = 0; i < button.length; i++) {
             }, 100);
 
   }
+
